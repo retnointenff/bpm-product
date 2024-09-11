@@ -1,0 +1,10 @@
+{
+    "global": [
+        {"path": "/", "scope": "landing_page", "url": "http://localhost:4005/remoteEntry.js"},
+        {"path": "home", "scope": "landing_page", "url": "http://localhost:4005/remoteEntry.js"},
+        {"path": "login", "scope": "login", "url": "http://localhost:4001/remoteEntry.js"}
+    ],
+    "protected": [
+        {"path": "profile", "scope": "profile", "url": "http://localhost:4003/remoteEntry.js"}
+    ]
+}
