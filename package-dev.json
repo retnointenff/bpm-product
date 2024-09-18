@@ -6,7 +6,7 @@
     ],
     "protected": [
         {"path": "profile", "scope": "profile", "url": "http://localhost:4003/remoteEntry.js"},
-        {"path": "menus", "scope": "menu", "url": "http://localhost:4100/remoteEntry.js"},
-        {"path": "roles", "scope": "role", "url": "http://localhost:4102/remoteEntry.js"}
+        {"path": "menus/*", "scope": "menu", "url": "http://localhost:4100/remoteEntry.js"},
+        {"path": "roles/*", "scope": "role", "url": "http://localhost:4102/remoteEntry.js"}
     ]
 }
