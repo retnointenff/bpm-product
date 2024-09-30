@@ -10,6 +10,9 @@
         {"path": "roles/*", "scope": "role", "url": "http://localhost:4102/remoteEntry.js"},
         {"path": "tenants/*", "scope": "tenant", "url": "http://localhost:4103/remoteEntry.js"},
         {"path": "users/*", "scope": "user", "url": "http://localhost:4101/remoteEntry.js"},
-        {"path": "group-table/*", "scope": "user", "url": "http://localhost:5001/remoteEntry.js"}
+        {"path": "group-table/*", "scope": "group_table", "url": "http://localhost:5001/remoteEntry.js"},
+        {"path": "table/*", "scope": "table", "url": "http://localhost:5002/remoteEntry.js"},
+        {"path": "flow-builder/*", "scope": "flow_builder", "url": "http://localhost:7001/remoteEntry.js"},
+        {"path": "form-builder/*", "scope": "flow_builder", "url": "http://localhost:7003/remoteEntry.js"}
     ]
 }
