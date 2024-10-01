@@ -2,7 +2,7 @@
     "global": [
         {"path": "/", "scope": "landing_page", "url": "https://cdn.jsdelivr.net/gh/retnointenff/bpm-product/landing_page/remoteEntry.js?=v1.0.0"},
         {"path": "home", "scope": "landing_page", "url": "https://cdn.jsdelivr.net/gh/retnointenff/bpm-product/landing_page/remoteEntry.js?=v1.0.0"},
-        {"path": "login", "scope": "login", "url": "https://cdn.jsdelivr.net/gh/retnointenff/bpm-product/login/remoteEntry.js?=v1.0.0"}
+        {"path": "login", "scope": "login", "url": "https://cdn.jsdelivr.net/gh/retnointenff/bpm-product/login/remoteEntry.js?=v1.0.1"}
     ],
     "protected": [
         {"path": "profile", "scope": "profile", "url": "https://cdn.jsdelivr.net/gh/retnointenff/bpm-product/profile/remoteEntry.js?=v1.0.0"}
